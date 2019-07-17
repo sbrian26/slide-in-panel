@@ -1,5 +1,6 @@
 Slide In Panel
 =========
+In progress: Convert this slide-in panel to a vue.js component
 
 A CSS3 and JavaScript powered slide-in panel, to quickly show side content, notifications or profile information.
 
